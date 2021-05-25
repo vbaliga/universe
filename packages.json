@@ -1,0 +1,14 @@
+[
+    {
+        "package": "pathviewr",
+        "url": "https://github.com/ropensci/pathviewr"
+    },
+    {
+        "package": "gaussplotR",
+        "url": "https://github.com/vbaliga/gaussplotR"
+    },
+    {
+        "package": "workloopR",
+        "url": "https://github.com/ropensci/workloopR"
+    }
+]
